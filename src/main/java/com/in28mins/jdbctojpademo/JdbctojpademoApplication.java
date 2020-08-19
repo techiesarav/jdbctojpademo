@@ -21,7 +21,6 @@ public class JdbctojpademoApplication implements CommandLineRunner{
 	PersonJdbcDao personJdbcDao;
 	
 	public static void main(String[] args) {
-		Application context
 //		SpringApplication.run(JdbctojpademoApplication.class, args);
 	}
 
